@@ -1,0 +1,865 @@
+216
+Afghanistan
+AFG
+South Asia
+38041754
+Albania
+ALB
+Europe & Central Asia
+2854191
+Algeria
+DZA
+Middle East & North Africa
+43053054
+American Samoa
+ASM
+East Asia & Pacific
+55312
+Andorra
+AND
+Europe & Central Asia
+77142
+Angola
+AGO
+Sub-Saharan Africa
+31825295
+Antigua and Barbuda
+ATG
+Latin America & Caribbean
+97118
+Argentina
+ARG
+Latin America & Caribbean
+44938712
+Armenia
+ARM
+Europe & Central Asia
+2957731
+Aruba
+ABW
+Latin America & Caribbean
+106314
+Australia
+AUS
+East Asia & Pacific
+25364307
+Austria
+AUT
+Europe & Central Asia
+8877067
+Azerbaijan
+AZE
+Europe & Central Asia
+10023318
+Bahamas, The
+BHS
+Latin America & Caribbean
+389482
+Bahrain
+BHR
+Middle East & North Africa
+1641172
+Bangladesh
+BGD
+South Asia
+163046161
+Barbados
+BRB
+Latin America & Caribbean
+287025
+Belarus
+BLR
+Europe & Central Asia
+9466856
+Belgium
+BEL
+Europe & Central Asia
+11484055
+Belize
+BLZ
+Latin America & Caribbean
+390353
+Benin
+BEN
+Sub-Saharan Africa
+11801151
+Bermuda
+BMU
+North America
+63918
+Bhutan
+BTN
+South Asia
+763092
+Bolivia
+BOL
+Latin America & Caribbean
+11513100
+Bosnia and Herzegovina
+BIH
+Europe & Central Asia
+3301000
+Botswana
+BWA
+Sub-Saharan Africa
+2303697
+Brazil
+BRA
+Latin America & Caribbean
+211049527
+British Virgin Islands
+VGB
+Latin America & Caribbean
+30030
+Brunei Darussalam
+BRN
+East Asia & Pacific
+433285
+Bulgaria
+BGR
+Europe & Central Asia
+6975761
+Burkina Faso
+BFA
+Sub-Saharan Africa
+20321378
+Burundi
+BDI
+Sub-Saharan Africa
+11530580
+Cabo Verde
+CPV
+Sub-Saharan Africa
+549935
+Cambodia
+KHM
+East Asia & Pacific
+16486542
+Cameroon
+CMR
+Sub-Saharan Africa
+25876380
+Canada
+CAN
+North America
+37589262
+Cayman Islands
+CYM
+Latin America & Caribbean
+64948
+Central African Republic
+CAF
+Sub-Saharan Africa
+4745185
+Chad
+TCD
+Sub-Saharan Africa
+15946876
+Channel Islands
+CHI
+Europe & Central Asia
+172259
+Chile
+CHL
+Latin America & Caribbean
+18952038
+China
+CHN
+East Asia & Pacific
+1397715000
+Colombia
+COL
+Latin America & Caribbean
+50339443
+Comoros
+COM
+Sub-Saharan Africa
+850886
+Congo, Dem. Rep.
+COD
+Sub-Saharan Africa
+86790567
+Congo, Rep.
+COG
+Sub-Saharan Africa
+5380508
+Costa Rica
+CRI
+Latin America & Caribbean
+5047561
+Cote d'Ivoire
+CIV
+Sub-Saharan Africa
+25716544
+Croatia
+HRV
+Europe & Central Asia
+4067500
+Cuba
+CUB
+Latin America & Caribbean
+11333483
+Curacao
+CUW
+Latin America & Caribbean
+157538
+Cyprus
+CYP
+Europe & Central Asia
+1198575
+Czech Republic
+CZE
+Europe & Central Asia
+10669709
+Denmark
+DNK
+Europe & Central Asia
+5818553
+Djibouti
+DJI
+Middle East & North Africa
+973560
+Dominica
+DMA
+Latin America & Caribbean
+71808
+Dominican Republic
+DOM
+Latin America & Caribbean
+10738958
+Ecuador
+ECU
+Latin America & Caribbean
+17373662
+Egypt, Arab Rep.
+EGY
+Middle East & North Africa
+100388073
+El Salvador
+SLV
+Latin America & Caribbean
+6453553
+Equatorial Guinea
+GNQ
+Sub-Saharan Africa
+1355986
+Estonia
+EST
+Europe & Central Asia
+1326590
+Eswatini
+SWZ
+Sub-Saharan Africa
+1148130
+Ethiopia
+ETH
+Sub-Saharan Africa
+112078730
+Faroe Islands
+FRO
+Europe & Central Asia
+48678
+Fiji
+FJI
+East Asia & Pacific
+889953
+Finland
+FIN
+Europe & Central Asia
+5520314
+France
+FRA
+Europe & Central Asia
+67059887
+French Polynesia
+PYF
+East Asia & Pacific
+279287
+Gabon
+GAB
+Sub-Saharan Africa
+2172579
+Gambia, The
+GMB
+Sub-Saharan Africa
+2347706
+Georgia
+GEO
+Europe & Central Asia
+3720382
+Germany
+DEU
+Europe & Central Asia
+83132799
+Ghana
+GHA
+Sub-Saharan Africa
+30417856
+Gibraltar
+GIB
+Europe & Central Asia
+33701
+Greece
+GRC
+Europe & Central Asia
+10716322
+Greenland
+GRL
+Europe & Central Asia
+56225
+Grenada
+GRD
+Latin America & Caribbean
+112003
+Guam
+GUM
+East Asia & Pacific
+167294
+Guatemala
+GTM
+Latin America & Caribbean
+16604026
+Guinea
+GIN
+Sub-Saharan Africa
+12771246
+Guinea-Bissau
+GNB
+Sub-Saharan Africa
+1920922
+Guyana
+GUY
+Latin America & Caribbean
+782766
+Haiti
+HTI
+Latin America & Caribbean
+11263077
+Honduras
+HND
+Latin America & Caribbean
+9746117
+Hong Kong SAR, China
+HKG
+East Asia & Pacific
+7507400
+Hungary
+HUN
+Europe & Central Asia
+9769949
+Iceland
+ISL
+Europe & Central Asia
+361313
+India
+IND
+South Asia
+1366417754
+Indonesia
+IDN
+East Asia & Pacific
+270625568
+Iran, Islamic Rep.
+IRN
+Middle East & North Africa
+82913906
+Iraq
+IRQ
+Middle East & North Africa
+39309783
+Ireland
+IRL
+Europe & Central Asia
+4941444
+Isle of Man
+IMN
+Europe & Central Asia
+84584
+Israel
+ISR
+Middle East & North Africa
+9053300
+Italy
+ITA
+Europe & Central Asia
+60297396
+Jamaica
+JAM
+Latin America & Caribbean
+2948279
+Japan
+JPN
+East Asia & Pacific
+126264931
+Jordan
+JOR
+Middle East & North Africa
+10101694
+Kazakhstan
+KAZ
+Europe & Central Asia
+18513930
+Kenya
+KEN
+Sub-Saharan Africa
+52573973
+Kiribati
+KIR
+East Asia & Pacific
+117606
+Korea, Dem. People’s Rep.
+PRK
+East Asia & Pacific
+25666161
+Korea, Rep.
+KOR
+East Asia & Pacific
+51709098
+Kosovo
+XKX
+Europe & Central Asia
+1794248
+Kuwait
+KWT
+Middle East & North Africa
+4207083
+Kyrgyz Republic
+KGZ
+Europe & Central Asia
+6456900
+Lao PDR
+LAO
+East Asia & Pacific
+7169455
+Latvia
+LVA
+Europe & Central Asia
+1912789
+Lebanon
+LBN
+Middle East & North Africa
+6855713
+Lesotho
+LSO
+Sub-Saharan Africa
+2125268
+Liberia
+LBR
+Sub-Saharan Africa
+4937374
+Libya
+LBY
+Middle East & North Africa
+6777452
+Liechtenstein
+LIE
+Europe & Central Asia
+38019
+Lithuania
+LTU
+Europe & Central Asia
+2786844
+Luxembourg
+LUX
+Europe & Central Asia
+619896
+Macao SAR, China
+MAC
+East Asia & Pacific
+640445
+Madagascar
+MDG
+Sub-Saharan Africa
+26969307
+Malawi
+MWI
+Sub-Saharan Africa
+18628747
+Malaysia
+MYS
+East Asia & Pacific
+31949777
+Maldives
+MDV
+South Asia
+530953
+Mali
+MLI
+Sub-Saharan Africa
+19658031
+Malta
+MLT
+Middle East & North Africa
+502653
+Marshall Islands
+MHL
+East Asia & Pacific
+58791
+Mauritania
+MRT
+Sub-Saharan Africa
+4525696
+Mauritius
+MUS
+Sub-Saharan Africa
+1265711
+Mexico
+MEX
+Latin America & Caribbean
+127575529
+Micronesia, Fed. Sts.
+FSM
+East Asia & Pacific
+113815
+Moldova
+MDA
+Europe & Central Asia
+2657637
+Monaco
+MCO
+Europe & Central Asia
+38964
+Mongolia
+MNG
+East Asia & Pacific
+3225167
+Montenegro
+MNE
+Europe & Central Asia
+622137
+Morocco
+MAR
+Middle East & North Africa
+36471769
+Mozambique
+MOZ
+Sub-Saharan Africa
+30366036
+Myanmar
+MMR
+East Asia & Pacific
+54045420
+Namibia
+NAM
+Sub-Saharan Africa
+2494530
+Nauru
+NRU
+East Asia & Pacific
+12581
+Nepal
+NPL
+South Asia
+28608710
+Netherlands
+NLD
+Europe & Central Asia
+17332850
+New Caledonia
+NCL
+East Asia & Pacific
+287800
+New Zealand
+NZL
+East Asia & Pacific
+4917000
+Nicaragua
+NIC
+Latin America & Caribbean
+6545502
+Niger
+NER
+Sub-Saharan Africa
+23310715
+Nigeria
+NGA
+Sub-Saharan Africa
+200963599
+North Macedonia
+MKD
+Europe & Central Asia
+2083459
+Northern Mariana Islands
+MNP
+East Asia & Pacific
+57216
+Norway
+NOR
+Europe & Central Asia
+5347896
+Oman
+OMN
+Middle East & North Africa
+4974986
+Pakistan
+PAK
+South Asia
+216565318
+Palau
+PLW
+East Asia & Pacific
+18008
+Panama
+PAN
+Latin America & Caribbean
+4246439
+Papua New Guinea
+PNG
+East Asia & Pacific
+8776109
+Paraguay
+PRY
+Latin America & Caribbean
+7044636
+Peru
+PER
+Latin America & Caribbean
+32510453
+Philippines
+PHL
+East Asia & Pacific
+108116615
+Poland
+POL
+Europe & Central Asia
+37970874
+Portugal
+PRT
+Europe & Central Asia
+10269417
+Puerto Rico
+PRI
+Latin America & Caribbean
+3193694
+Qatar
+QAT
+Middle East & North Africa
+2832067
+Romania
+ROU
+Europe & Central Asia
+19356544
+Russian Federation
+RUS
+Europe & Central Asia
+144373535
+Rwanda
+RWA
+Sub-Saharan Africa
+12626950
+Samoa
+WSM
+East Asia & Pacific
+197097
+San Marino
+SMR
+Europe & Central Asia
+33860
+Sao Tome and Principe
+STP
+Sub-Saharan Africa
+215056
+Saudi Arabia
+SAU
+Middle East & North Africa
+34268528
+Senegal
+SEN
+Sub-Saharan Africa
+16296364
+Serbia
+SRB
+Europe & Central Asia
+6944975
+Seychelles
+SYC
+Sub-Saharan Africa
+97625
+Sierra Leone
+SLE
+Sub-Saharan Africa
+7813215
+Singapore
+SGP
+East Asia & Pacific
+5703569
+Sint Maarten (Dutch part)
+SXM
+Latin America & Caribbean
+40733
+Slovak Republic
+SVK
+Europe & Central Asia
+5454073
+Slovenia
+SVN
+Europe & Central Asia
+2087946
+Solomon Islands
+SLB
+East Asia & Pacific
+669823
+Somalia
+SOM
+Sub-Saharan Africa
+15442905
+South Africa
+ZAF
+Sub-Saharan Africa
+58558270
+South Sudan
+SSD
+Sub-Saharan Africa
+11062113
+Spain
+ESP
+Europe & Central Asia
+47076781
+Sri Lanka
+LKA
+South Asia
+21803000
+St. Kitts and Nevis
+KNA
+Latin America & Caribbean
+52834
+St. Lucia
+LCA
+Latin America & Caribbean
+182790
+St. Martin (French part)
+MAF
+Latin America & Caribbean
+38002
+St. Vincent and the Grenadines
+VCT
+Latin America & Caribbean
+110589
+Sudan
+SDN
+Sub-Saharan Africa
+42813238
+Suriname
+SUR
+Latin America & Caribbean
+581363
+Sweden
+SWE
+Europe & Central Asia
+10285453
+Switzerland
+CHE
+Europe & Central Asia
+8574832
+Syrian Arab Republic
+SYR
+Middle East & North Africa
+17070135
+Tajikistan
+TJK
+Europe & Central Asia
+9321018
+Tanzania
+TZA
+Sub-Saharan Africa
+58005463
+Thailand
+THA
+East Asia & Pacific
+69625582
+Timor-Leste
+TLS
+East Asia & Pacific
+1293119
+Togo
+TGO
+Sub-Saharan Africa
+8082366
+Tonga
+TON
+East Asia & Pacific
+104494
+Trinidad and Tobago
+TTO
+Latin America & Caribbean
+1394973
+Tunisia
+TUN
+Middle East & North Africa
+11694719
+Turkey
+TUR
+Europe & Central Asia
+83429615
+Turkmenistan
+TKM
+Europe & Central Asia
+5942089
+Turks and Caicos Islands
+TCA
+Latin America & Caribbean
+38191
+Tuvalu
+TUV
+East Asia & Pacific
+11646
+Uganda
+UGA
+Sub-Saharan Africa
+44269594
+Ukraine
+UKR
+Europe & Central Asia
+44385155
+United Arab Emirates
+ARE
+Middle East & North Africa
+9770529
+United Kingdom
+GBR
+Europe & Central Asia
+66834405
+United States
+USA
+North America
+328239523
+Uruguay
+URY
+Latin America & Caribbean
+3461734
+Uzbekistan
+UZB
+Europe & Central Asia
+33580650
+Vanuatu
+VUT
+East Asia & Pacific
+299882
+Venezuela, RB
+VEN
+Latin America & Caribbean
+28515829
+Vietnam
+VNM
+East Asia & Pacific
+96462106
+Virgin Islands (U.S.)
+VIR
+Latin America & Caribbean
+106631
+West Bank and Gaza
+PSE
+Middle East & North Africa
+4685306
+Yemen, Rep.
+YEM
+Middle East & North Africa
+29161922
+Zambia
+ZMB
+Sub-Saharan Africa
+17861030
+Zimbabwe
+ZWE
+Sub-Saharan Africa
+14645468
